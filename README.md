@@ -15,13 +15,6 @@ This project uses the BELLHOP underwater acoustic propagation model integrated t
 * Automatically compares output for different seabed types
 * Outputs data in plots and exportable datasets (CSV/Excel)
 
-## 📁 Folder Structure
-
-* seaBeds.ipynb — Main Jupyter notebook with all simulations and plots
-* seabed\_data/ — Exported graphs and datasets
-* images/ — Screenshots used in the report or README
-* report/ — Documentation and PDF report (optional)
-
 ## ⚙️ Installation & Setup
 
 ### 1. System Requirements
